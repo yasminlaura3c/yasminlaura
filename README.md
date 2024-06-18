@@ -1,1 +1,3 @@
-# yasminlaura
+* olá !
+* sou estudante do alura
+* 
